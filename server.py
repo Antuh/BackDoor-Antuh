@@ -51,3 +51,4 @@ try:
 
 except KeyboardInterrupt:
     listener.close()
+    exit()
